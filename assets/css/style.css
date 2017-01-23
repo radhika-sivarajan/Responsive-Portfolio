@@ -250,6 +250,7 @@ input[type=submit] {
 /*Media queries*/
 
 @media screen and (max-width: 980px){
+
   .work {
     width: 100%;
     margin: 10px 0;
@@ -257,6 +258,7 @@ input[type=submit] {
 
   .auth-image {
     width: 100%;
+    margin-bottom: 10px;
   }
 }
 
@@ -322,7 +324,6 @@ input[type=submit] {
 
   .work {
     width: 100%;
-    margin: 10px 0;
   }
 
   .main-section, .sidebar{
