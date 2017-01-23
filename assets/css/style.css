@@ -247,6 +247,15 @@ input[type=submit] {
   border: 0 none;
 }
 
+/*Media queries*/
+
+@media screen and (max-width: 980px){
+  .work {
+    width: 100%;
+  }
+  
+}
+
 @media screen and (max-width: 768px){
 
   #masthead {
@@ -263,6 +272,10 @@ input[type=submit] {
   .sidebar{ 
     float: left; 
     margin-bottom: 40px;
+  }
+
+  .work {
+    width: 45%;
   }
 
   
