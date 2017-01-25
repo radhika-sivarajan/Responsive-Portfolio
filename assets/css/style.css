@@ -343,11 +343,9 @@ input[type=submit] {
   }
 
   .auth-image {
-  width: 200px;
-  height: auto;
-}
-
-  
+    width: 200px;
+    height: auto;
+  } 
 }
 
 @media screen and (max-width: 640px){
