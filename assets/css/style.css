@@ -250,7 +250,7 @@ h3,
     -webkit-animation-name: texts; /* Safari 4.0 - 8.0 */
     -webkit-animation-duration: 4s; /* Safari 4.0 - 8.0 */
     animation-name: texts;
-    animation-duration: 5s;
+    animation-duration: 4s;
     opacity: 10;
 }
 
